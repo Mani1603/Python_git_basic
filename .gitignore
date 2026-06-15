@@ -1,0 +1,5 @@
+s1.sql
+pass.txt
+*.log
+module_basic/
+!imp.log
