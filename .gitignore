@@ -1,5 +1,6 @@
 s1.sql
 pass.txt
 *.log
+about.html
 module_basic/
 !imp.log
