@@ -2,7 +2,7 @@
 
 Welcome to the GIT Beginner project! This is a comprehensive learning repository designed to help beginners understand version control with Git and explore various web development technologies.
 
-## Project Overview
+# Project Overview
 
 This repository contains multiple mini-projects and learning materials covering:
 - **Git Version Control** fundamentals
